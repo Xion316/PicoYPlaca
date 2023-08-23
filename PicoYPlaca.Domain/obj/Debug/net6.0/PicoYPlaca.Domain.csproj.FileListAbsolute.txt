@@ -1,0 +1,12 @@
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\bin\Debug\net6.0\PicoYPlaca.Domain.deps.json
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\bin\Debug\net6.0\PicoYPlaca.Domain.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\bin\Debug\net6.0\PicoYPlaca.Domain.pdb
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.csproj.AssemblyReference.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.AssemblyInfoInputs.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.AssemblyInfo.cs
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.csproj.CoreCompileInputs.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\refint\PicoYPlaca.Domain.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\PicoYPlaca.Domain.pdb
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Domain\obj\Debug\net6.0\ref\PicoYPlaca.Domain.dll

@@ -1,0 +1,17 @@
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Infraestructure.deps.json
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Infraestructure.runtimeconfig.json
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Infraestructure.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Infraestructure.pdb
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Domain.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\bin\Debug\net6.0\PicoYPlaca.Domain.pdb
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.csproj.AssemblyReference.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.AssemblyInfoInputs.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.AssemblyInfo.cs
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.csproj.CoreCompileInputs.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.csproj.CopyComplete
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\refint\PicoYPlaca.Infraestructure.dll
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.pdb
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\PicoYPlaca.Infraestructure.genruntimeconfig.cache
+d:\Trabajo\netCore Projects\PicoYPlaca\PicoYPlaca.Infraestructure\obj\Debug\net6.0\ref\PicoYPlaca.Infraestructure.dll
